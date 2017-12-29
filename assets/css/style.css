@@ -35,20 +35,21 @@ a:hover { text-decoration: none }
 .blu-frome-wrap img {
     display: block;
     margin: 0 auto;
+    padding-left: 90px;
 }
 .blue-frome {
     background-color: #19b5fe;
     max-width: 770px;
     padding-left: 50px;
-    padding-right: 130px;
+    padding-right: 50px;
     margin-top: -60px;
 }
 .blue-frome h3 {
     text-align: center;
-    font-size: 26px;
+    font-size: 25px;
     color: #fff;
     position: relative;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     padding-top: 20px;
 }
 .blue-frome h3:before {
